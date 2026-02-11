@@ -1,1 +1,3 @@
-Welcome to Our website!
+Welcome to My Website​
+Home | About |​  Services
+This is the homepage of my new website.​
