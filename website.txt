@@ -1,3 +1,6 @@
 Welcome to My Website​
 Home | About |​  Services
 This is the homepage of my new website.​
+Contact Us: 
+Email: contact@example.com 
+Phone: 123-456-789
